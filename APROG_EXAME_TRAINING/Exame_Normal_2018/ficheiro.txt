@@ -1,0 +1,6 @@
+Alimento        dose    quanti calorias
+Tarte de maçã; uma fatia; 100; 252
+Tarte de banana; uma fatia; 100; 252
+Tarte de pera; uma fatia; 100; 252
+Tarte de morango; uma fatia; 100; 252
+Tarte de laranja; uma fatia; 100; 252
